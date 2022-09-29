@@ -1,0 +1,8 @@
+C:\Users\wanga\OneDrive - De Vinci\A3 S1\C#\W3\W3_Th\W3_Th\bin\Debug\W3_Th.exe.config
+C:\Users\wanga\OneDrive - De Vinci\A3 S1\C#\W3\W3_Th\W3_Th\bin\Debug\W3_Th.exe
+C:\Users\wanga\OneDrive - De Vinci\A3 S1\C#\W3\W3_Th\W3_Th\bin\Debug\W3_Th.pdb
+C:\Users\wanga\OneDrive - De Vinci\A3 S1\C#\W3\W3_Th\W3_Th\obj\Debug\W3_Th.csproj.AssemblyReference.cache
+C:\Users\wanga\OneDrive - De Vinci\A3 S1\C#\W3\W3_Th\W3_Th\obj\Debug\W3_Th.csproj.SuggestedBindingRedirects.cache
+C:\Users\wanga\OneDrive - De Vinci\A3 S1\C#\W3\W3_Th\W3_Th\obj\Debug\W3_Th.csproj.CoreCompileInputs.cache
+C:\Users\wanga\OneDrive - De Vinci\A3 S1\C#\W3\W3_Th\W3_Th\obj\Debug\W3_Th.exe
+C:\Users\wanga\OneDrive - De Vinci\A3 S1\C#\W3\W3_Th\W3_Th\obj\Debug\W3_Th.pdb
